@@ -4,9 +4,9 @@
 
 ## Запуск
 Откройте `index.html` в браузере или включите GitHub Pages:
-1. Settings → Pages.
-2. В разделе Build and deployment выберите Deploy from a branch.
-3. Branch: `main`, folder: `/ (root)`, затем Save.
+1. Откройте Settings → Pages.
+2. В разделе Build and deployment выберите Source: GitHub Actions.
+3. Если GitHub предложит подтвердить настройки, подтвердите их. Workflow уже добавлен в `.github/workflows/pages.yml`.
 
 После публикации сайт будет доступен по адресу:
 https://arnix858-lang.github.io/ARNIX-LAMPA/
